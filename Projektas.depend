@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1553855449 source:z:\github\projektas\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<vector>
+	<fstream>
+	<stdio.h>
+	<sstream>
+	<algorithm>
+
+1553978062 source:c:\users\barbora\desktop\studijos\kà reikia padaryt\2 kursas\programavimas\versijø laboratorinis darbas\projektas\main.cpp
+	"kodas.h"
+
+1553978027 c:\users\barbora\desktop\studijos\kà reikia padaryt\2 kursas\programavimas\versijø laboratorinis darbas\projektas\kodas.h
+
+1553978038 source:c:\users\barbora\desktop\studijos\kà reikia padaryt\2 kursas\programavimas\versijø laboratorinis darbas\projektas\kodas.cpp
+	"pradzia.h"
+
+1553975489 c:\users\barbora\desktop\studijos\kà reikia padaryt\2 kursas\programavimas\versijø laboratorinis darbas\projektas\pradzia.h
+	<iostream>
+	<string>
+	<iomanip>
+	<vector>
+	<fstream>
+	<stdio.h>
+	<sstream>
+	<algorithm>
+
+1555499503 source:c:\users\barbora\desktop\bandymai\main.cpp
+	"kodas.h"
+
+1553978027 c:\users\barbora\desktop\bandymai\kodas.h
+
+1555614744 source:c:\users\barbora\desktop\bandymai\kodas.cpp
+	"pradzia.h"
+
+1555613127 c:\users\barbora\desktop\bandymai\pradzia.h
+	<iostream>
+	<string>
+	<iomanip>
+	<vector>
+	<fstream>
+	<stdio.h>
+	<sstream>
+	<algorithm>
+	<list>
+	<deque>
+
